@@ -182,4 +182,3 @@ There two types of collection within MongoDB. one is the actual recipes and then
   }
 ```
 
-Copyright (c) 2019 Lucas Suarez
