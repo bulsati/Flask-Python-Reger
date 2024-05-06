@@ -182,13 +182,4 @@ There two types of collection within MongoDB. one is the actual recipes and then
   }
 ```
 
-## References:
-- PyMongo docs: https://api.mongodb.com/python/current/tutorial.html
-- Flask docs: http://flask.pocoo.org/docs/1.0/
-
-### Acknowledgements
-
-- Logo by easyfood.ie
-
-#### Licence
 Copyright (c) 2019 Lucas Suarez
